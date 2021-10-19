@@ -1,0 +1,7 @@
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\bin\Debug\CSharp - OOP.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\bin\Debug\CSharp - OOP.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\bin\Debug\CSharp - OOP.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\obj\Debug\CSharp - OOP.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\obj\Debug\CSharp - OOP.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\obj\Debug\CSharp - OOP.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\obj\Debug\CSharp - OOP.pdb

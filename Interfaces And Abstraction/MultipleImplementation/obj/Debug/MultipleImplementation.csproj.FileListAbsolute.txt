@@ -1,0 +1,14 @@
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MultipleImplementation\bin\Debug\MultipleImplementation.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MultipleImplementation\bin\Debug\MultipleImplementation.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MultipleImplementation\bin\Debug\MultipleImplementation.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MultipleImplementation\obj\Debug\MultipleImplementation.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MultipleImplementation\obj\Debug\MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MultipleImplementation\obj\Debug\MultipleImplementation.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MultipleImplementation\obj\Debug\MultipleImplementation.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MultipleImplementation\bin\Debug\MultipleImplementation.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MultipleImplementation\bin\Debug\MultipleImplementation.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MultipleImplementation\bin\Debug\MultipleImplementation.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MultipleImplementation\obj\Debug\MultipleImplementation.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MultipleImplementation\obj\Debug\MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MultipleImplementation\obj\Debug\MultipleImplementation.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MultipleImplementation\obj\Debug\MultipleImplementation.pdb

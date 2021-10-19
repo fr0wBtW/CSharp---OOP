@@ -1,0 +1,14 @@
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\1. Sort PersonsBy Name and Age\bin\Debug\_1.Sort_PersonsBy_Name_and_Age.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\1. Sort PersonsBy Name and Age\bin\Debug\_1.Sort_PersonsBy_Name_and_Age.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\1. Sort PersonsBy Name and Age\bin\Debug\_1.Sort_PersonsBy_Name_and_Age.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\1. Sort PersonsBy Name and Age\obj\Debug\SortPersonsByNameAndAge.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\1. Sort PersonsBy Name and Age\obj\Debug\SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\1. Sort PersonsBy Name and Age\obj\Debug\_1.Sort_PersonsBy_Name_and_Age.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\1. Sort PersonsBy Name and Age\obj\Debug\_1.Sort_PersonsBy_Name_and_Age.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Encapsulation\Sort PersonsBy Name and Age\bin\Debug\_1.Sort_PersonsBy_Name_and_Age.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Encapsulation\Sort PersonsBy Name and Age\bin\Debug\_1.Sort_PersonsBy_Name_and_Age.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Encapsulation\Sort PersonsBy Name and Age\bin\Debug\_1.Sort_PersonsBy_Name_and_Age.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Encapsulation\Sort PersonsBy Name and Age\obj\Debug\SortPersonsByNameAndAge.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Encapsulation\Sort PersonsBy Name and Age\obj\Debug\SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Encapsulation\Sort PersonsBy Name and Age\obj\Debug\_1.Sort_PersonsBy_Name_and_Age.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Encapsulation\Sort PersonsBy Name and Age\obj\Debug\_1.Sort_PersonsBy_Name_and_Age.pdb

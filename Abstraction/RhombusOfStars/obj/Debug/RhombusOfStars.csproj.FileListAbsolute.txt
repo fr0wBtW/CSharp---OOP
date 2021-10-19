@@ -1,0 +1,21 @@
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\bin\Debug\CSharp - OOP.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\bin\Debug\CSharp - OOP.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\bin\Debug\CSharp - OOP.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\obj\Debug\RhombusOfStars.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\obj\Debug\RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\obj\Debug\CSharp - OOP.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\CSharp - OOP\obj\Debug\CSharp - OOP.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\RhombusOfStars\bin\Debug\CSharp - OOP.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\RhombusOfStars\bin\Debug\CSharp - OOP.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\RhombusOfStars\bin\Debug\CSharp - OOP.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\RhombusOfStars\obj\Debug\RhombusOfStars.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\RhombusOfStars\obj\Debug\RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\RhombusOfStars\obj\Debug\CSharp - OOP.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\RhombusOfStars\obj\Debug\CSharp - OOP.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Abstraction\RhombusOfStars\bin\Debug\CSharp - OOP.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Abstraction\RhombusOfStars\bin\Debug\CSharp - OOP.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Abstraction\RhombusOfStars\bin\Debug\CSharp - OOP.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Abstraction\RhombusOfStars\obj\Debug\RhombusOfStars.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Abstraction\RhombusOfStars\obj\Debug\RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Abstraction\RhombusOfStars\obj\Debug\CSharp - OOP.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Abstraction\RhombusOfStars\obj\Debug\CSharp - OOP.pdb

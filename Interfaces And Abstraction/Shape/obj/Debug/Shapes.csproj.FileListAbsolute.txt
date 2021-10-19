@@ -1,0 +1,14 @@
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Shape\bin\Debug\Shape.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Shape\bin\Debug\Shape.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Shape\bin\Debug\Shape.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Shape\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Shape\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Shape\obj\Debug\Shape.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Shape\obj\Debug\Shape.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Shape\bin\Debug\Shape.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Shape\bin\Debug\Shape.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Shape\bin\Debug\Shape.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Shape\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Shape\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Shape\obj\Debug\Shape.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Shape\obj\Debug\Shape.pdb

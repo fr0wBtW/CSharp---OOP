@@ -1,0 +1,14 @@
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Ferrari\bin\Debug\Ferrari.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Ferrari\bin\Debug\Ferrari.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Ferrari\bin\Debug\Ferrari.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Ferrari\obj\Debug\Ferrari.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Ferrari\obj\Debug\Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Ferrari\obj\Debug\Ferrari.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Ferrari\obj\Debug\Ferrari.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Ferrari\bin\Debug\Ferrari.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Ferrari\bin\Debug\Ferrari.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Ferrari\bin\Debug\Ferrari.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Ferrari\obj\Debug\Ferrari.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Ferrari\obj\Debug\Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Ferrari\obj\Debug\Ferrari.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\Ferrari\obj\Debug\Ferrari.pdb

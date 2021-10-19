@@ -1,0 +1,14 @@
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MilitaryElite\obj\Debug\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MilitaryElite\obj\Debug\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MilitaryElite\bin\Debug\MilitaryElite.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MilitaryElite\bin\Debug\MilitaryElite.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MilitaryElite\bin\Debug\MilitaryElite.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MilitaryElite\obj\Debug\MilitaryElite.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\MilitaryElite\obj\Debug\MilitaryElite.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MilitaryElite\bin\Debug\MilitaryElite.exe.config
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MilitaryElite\bin\Debug\MilitaryElite.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MilitaryElite\bin\Debug\MilitaryElite.pdb
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MilitaryElite\obj\Debug\MilitaryElite.csprojAssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MilitaryElite\obj\Debug\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MilitaryElite\obj\Debug\MilitaryElite.exe
+C:\Users\Jorka\Desktop\SoftUni\C# OOP\CSharp - OOP\Interfaces And Abstraction\MilitaryElite\obj\Debug\MilitaryElite.pdb
